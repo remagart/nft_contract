@@ -2,5 +2,8 @@
   "name": "richard_meta",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
 }
